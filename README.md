@@ -1,2 +1,2 @@
 # week6firebase
-week6firebase
+firebaseprojectweek6
